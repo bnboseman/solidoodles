@@ -1,0 +1,30 @@
+# User specific & automatically generated files #
+#################################################
+/app/Config/database.php
+/app/tmp
+/lib/Cake/Console/Templates/skel/tmp/
+/build
+/dist
+/tags
+/app/webroot/files/*
+.htaccess
+.htpasswd
+!/app/webroot/img/glyphicons-halflings*
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+.project
+.settings/org.eclipse.wst.common.project.facet.core.xml
+app/Test
+app/.DS_Store
+.buildpath
+.settings/
+.idea
+.editorconfig

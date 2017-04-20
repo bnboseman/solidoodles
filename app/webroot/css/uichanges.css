@@ -1,0 +1,41 @@
+.ui-dialog-titlebar { 
+	display: none 
+}
+
+.ui-dialog-content {
+	text-align: center; 
+}
+
+
+.ui-menu { width: 150px;
+	   position:absolute; 
+	   color: #000;
+	   z-index: 1; 
+	 }
+
+.ui-menu a{ 
+	   color: #FFFFFF;	
+	 }
+
+.ui-menu hr{
+	  background-color: #000;
+}
+
+#menu .ui-state-hover a{
+	background-color: rgba(0, 0, 0, 0.6);	
+}
+
+#menu .ui-state-focus{
+	background-color: rgba(0,0,0,0.1);  
+	border: none;
+        margin-left: 30px; 	
+}
+
+#menu .ui-state-focus a{
+	margin-left: 30px; 
+}
+
+a {
+	color: #000;
+	font-weight: bold;
+}
